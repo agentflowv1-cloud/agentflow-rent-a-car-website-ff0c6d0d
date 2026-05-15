@@ -1,0 +1,67 @@
+.bg-blue-500 {
+  background-color: #3498db;
+}
+
+.bg-blue-700 {
+  background-color: #2c6f9e;
+}
+
+.text-gray-600 {
+  color: #666;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.max-w-sm {
+  max-width: 30rem;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
+
+.shadow-md {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1), 0 0.0625rem 0.125rem rgba(0, 0, 0, 0.04);
+}
+
+.p-4 {
+  padding: 1rem;
+}
